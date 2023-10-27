@@ -3,7 +3,7 @@ entries:
   plausible-analytics:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-10-27T12:36:43.503351979Z"
+    created: "2023-10-27T12:45:17.989008969Z"
     dependencies:
     - alias: postgresql
       condition: postgresql.enabled
@@ -17,7 +17,7 @@ entries:
       version: 3.6.7
     description: A Helm Chart for Plausible Analytics - Simple, open-source, lightweight
       (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-    digest: ec3a9eb77293f9e85462764c5b78d64269820b84bc8996ea7bdd4f1fb9df63d2
+    digest: 533c6d28eb58822e4b3f1ba0927158cc9cd3fa9c4018f0c89c056027a857f8ee
     icon: https://plausible.io/assets/images/icon/plausible_logo.compressed.png
     keywords:
     - web analytics
@@ -35,4 +35,4 @@ entries:
     urls:
     - https://mrdotb.github.io/helm-charts/plausible-analytics/plausible-analytics-0.2.0.tgz
     version: 0.2.0
-generated: "2023-10-27T12:36:43.489143376Z"
+generated: "2023-10-27T12:45:17.973223976Z"
