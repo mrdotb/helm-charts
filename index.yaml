@@ -7,9 +7,9 @@ entries:
           url: https://github.com/mrdotb/helm-charts
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-05T15:36:53.288768836Z"
+    created: "2023-11-08T20:17:12.093287825Z"
     description: 'A helm chart for running a Phoenix web application. '
-    digest: 96369a92961d4100b9c36c8bb953df37dc1c674ebbe30f496078c62561f2739c
+    digest: 13113aba3c4944324130b5d2fa23397ee221014a00a0f27a78ad0d1d9f194517
     home: https://github.com/mrdotb/helm-charts
     icon: https://raw.githubusercontent.com/mrdotb/i/master/phoenix-icon.png
     keywords:
@@ -61,4 +61,4 @@ entries:
     urls:
     - https://mrdotb.github.io/helm-charts/plausible-analytics/plausible-analytics-0.2.0.tgz
     version: 0.2.0
-generated: "2023-11-05T15:36:53.287387218Z"
+generated: "2023-11-08T20:17:12.092571112Z"
